@@ -1,4 +1,4 @@
-# Pertemuan 02 - Dasar Python
+# Pertemuan 02 - Dasar Python - 2225250078
 
 ## Identitas
 
@@ -47,7 +47,6 @@ Materi yang dipraktikkan meliputi variabel, konstanta, tipe data, input-output, 
 
 Program dapat dijalankan melalui Terminal pada VS Code.
 
-### Latihan 1
 
 ```bash
 python latihan/01_biodata.py
