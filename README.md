@@ -43,30 +43,26 @@ Materi yang dipraktikkan meliputi variabel, konstanta, tipe data, input-output, 
    - Menghitung jarak antara dua titik.
    - Menghitung titik tengah antara dua titik.
 
-## Cara Menjalankan Program
-
+## Cara Menjalankan 
 Program dapat dijalankan melalui Terminal pada VS Code.
 
-
+### Latihan 1 - Biodata
 ```bash
 python latihan/01_biodata.py
 python latihan/02_persegi_panjang.py
 python latihan/03_konversi_suhu.py
 python latihan/04_nilai_akhir.py
 python tugas/kalkulator_koordinat.py
-
+```
 ## Hasil Pengujian Tugas Utama
-
 | No. | Titik A | Titik B | Jarak | Titik Tengah |
 |---|---|---|---|---|
 | 1 | (0, 0) | (3, 4) | 5.00 | (1.50, 2.00) |
 | 2 | (-2, 1) | (4, 1) | 6.00 | (1.00, 1.00) |
 | 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.50, 1.00) |
-
 ## Hasil Pengujian Latihan
 
 ### Latihan 1 - Biodata
-
 Input:
 - Nama: Mauliana Mutiara
 - NIM: 2225250078
@@ -75,9 +71,7 @@ Input:
 
 Hasil:
 - Perkiraan umur: 21 tahun
-
 ### Latihan 2 - Persegi Panjang
-
 Pengujian 1:
 - Panjang = 8
 - Lebar = 5
@@ -89,9 +83,7 @@ Pengujian 2:
 - Lebar = 4
 - Luas = 10.00
 - Keliling = 13.00
-
 ### Latihan 3 - Konversi Suhu
-
 Pengujian 1:
 - Celsius = 0
 - Fahrenheit = 32.00
@@ -101,9 +93,7 @@ Pengujian 2:
 - Celsius = 100
 - Fahrenheit = 212.00
 - Kelvin = 373.15
-
 ### Latihan 4 - Nilai Akhir
-
 Pengujian 1:
 - Nilai tugas = 80
 - Nilai UTS = 80
@@ -117,17 +107,12 @@ Pengujian 2:
 - Nilai akhir = 83.00
 
 ## Refleksi
-
 Pada pertemuan ini saya memahami penggunaan variabel, konstanta, tipe data, input-output, konversi tipe data, dan operator dalam Python.
-
 Saya juga memahami bahwa input dari pengguna perlu menggunakan tipe data yang sesuai, seperti int untuk bilangan bulat dan float untuk bilangan desimal.
-
 Kesalahan yang saya temukan selama mengerjakan latihan adalah kesalahan dalam penulisan kode dan tipe data. Saya memperbaikinya dengan memeriksa kembali kode dan menjalankan program menggunakan beberapa input.
-
 Pada pertemuan berikutnya saya ingin lebih memahami penggunaan percabangan dan membuat program yang lebih kompleks.
 
 ## Sumber
-
 - Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub, Pertemuan ke-2, Algoritma dan Pemrograman, S1 Pendidikan Matematika FKIP Untirta.
 - Python Tutorial.
 - Visual Studio Code - Getting Started with Python.
